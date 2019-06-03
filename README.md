@@ -1,3 +1,5 @@
 # hello-world2
-just one more tutorial since the last one has been some time ago
-I made this tutorial one month ago and learned a lot since then. However, unfortunately I forgot a lot about Git. That's why I do it again right now.
+
+just another try ..
+what happens if I click commit one more time? will it amend my README.md or will it create another version? what if I wanted the version before this to merge into my master branch? why does it say that my readme-edits branch is one commit before and one behind master??
+
